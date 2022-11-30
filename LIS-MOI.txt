@@ -1,0 +1,42 @@
+
+     +----------------------------------------+
+     |######  ####### ####### #     #  #####  |
+     |#     # #     # #       #     # #     # |
+     |#     # #     # #       #     # #       |
+     |#     # #     # #####   #     #  #####  |
+     |#     # #     # #       #     #       # |
+     |#     # #     # #       #     # #     # |
+     |######  ####### #        #####   #####  |
+     |                                        |
+     |             VERSION 1.9.1              |
+     +----------------------------------------+
+
+
+Le 2 septembre 2005.
+
+
+
+Tu viens de télécharger et d’installer les fichiers qui vont te permettre de jouer
+à Dofus.
+
+
+Pour pouvoir jouer, il faut bien sûr être inscrit, puis
+
+- lance le fichier "Dofus.exe" dans le répertoire d'installation de Dofus
+ou
+- lance le fichier "Dofus.html" dans le répertoire d'installation de Dofus
+
+
+
+
+Avertissement :
+
+Les Fichiers d’installation de Dofus sont garantis sans virus, chevaux de troie
+ou autres spywares connus. Ankama Studio ne pourrait être tenu responsable
+en cas de mauvaise utilisation et/ou de pertes d’informations.
+
+
+________________________________________________________________
+
+
+DOFUS - © 2003-2005 Ankama Studio – Tous droits réservés

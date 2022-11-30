@@ -1,0 +1,36 @@
+
+     +----------------------------------------+
+     |######  ####### ####### #     #  #####  |
+     |#     # #     # #       #     # #     # |
+     |#     # #     # #       #     # #       |
+     |#     # #     # #####   #     #  #####  |
+     |#     # #     # #       #     #       # |
+     |#     # #     # #       #     # #     # |
+     |######  ####### #        #####   #####  |
+     |                                        |
+     |             VERSION 1.9.1              |
+     +----------------------------------------+
+
+
+September 2005, 2nd
+
+
+
+You have just downloaded and installed DOFUS files. Now, you can connect to this online game.
+
+
+In order to play, you must register first then
+- launch "Dofus.exe" in DOFUS directory.
+or
+- launch "Dofus.html" in DOFUS directory.
+
+
+Notice :
+DOFUS files contains no known virus, troyan horse or spyware.
+Ankama Studio could not be held responsible in the event of misuse and/or of losses of information.
+
+
+________________________________________________________________
+
+
+DOFUS - © 2003-2005 Ankama Studio – All rights reserved
