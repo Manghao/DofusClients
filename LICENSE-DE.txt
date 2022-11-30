@@ -1,0 +1,80 @@
+﻿DOFUS installation program End User License Agreement
+=============================================================
+12/02/2007	
+
+THIS SOFTWARE AS WELL AS ALL FILES ACCOMPANYING IT ARE PROVIDED "AS IS".
+ These present conditions of use are the agreement that allows you (the User, the Player) as a user to install the DOFUS software (the Service, the Game), property of Ankama Games (the Company, the Owner) with the DOFUS installation software (the Program, the Software). They are in addition to the conditions of use available on the website: http://www.dofus.com, that must be accepted as well, before being able to use the Dofus software and to connect to the DOFUS servers.
+
+By copying, installing and otherwise using the files of the DOFUS installation software you agree to be bound by the terms of this agreement. In case you do not agree, you must destroy all these files without any delay.
+
+This software product is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The Ankama Company grants a use license of its Software but this license does not transfer the ownership. Except as expressly provided otherwise, all the rights related to it are and remain the exclusive property of Ankama Games.
+
+To accept the present conditions, the User must be 18 years old in France or the age of majority in his birth country. Moreover, he must be legally capable. Failing that, his legal representative can take his place. This representative is then designated as the User and is then responsible of the use of the Software.
+
+
+1. GRANT OF LICENSE:
+
+The present license allows you to:
+- Install the Software on every computer you own or for which you have rights allowing you to install computer programs.
+- Use the Software according to the present conditions and to the DOFUS software conditions of use available on the website: http://www.dofus.com
+- Keep the present files as a save.
+
+The present license does not allow you to:
+- Sell back all or part of the Software and files accompanying it.
+- Distribute, even free of charge, all or part of the Software and files accompanying it without the express authorization of the Owner.
+
+Ankama Games keeps the right to put unilaterally an end to a license agreement in case of non respect of any of the conditions expressed in this present text.
+
+
+2. OTHER RESTRICTIONS :
+
+Decompilation – You may not decompile, disassemble all or part of the Software or reverse engineer it.
+
+Component solidarity – The DOFUS installation software is a whole, indissociable from its components that all remain bound to the present conditions.
+
+Development restriction – You may not use the present Program to develop another computer program. Ankama Games is the only one that can decide to limit this condition. In any case, except as expressly authorized otherwise, the present condition applies to every natural person or legal entity. 
+
+
+3. RUNNING OF UPDATES
+
+The present Program can include a system allowing updating the data of the Program installed on your computer. This system can be considered by some softwares as a spyware. Ankama Games is not responsible of the non-running of this system by the very fact of the presence of such softwares in your computer. 
+
+Moreover, this system requires an Internet connection. Ankama Games is not responsible of the damage that should be caused by the use of an Internet connection or by the installation of malicious softwares on your computer.
+
+
+4. TITLE RETENTION
+
+To create the DOFUS installation program and the DOFUS program, the Ankama Company was led to use computer source of which it is not the owner (among others, the use of the Flash Run-Time, property of Macromedia, Inc.).
+
+The use of the DOFUS installation program and of the DOFUS program does not allow you to prosecute the companies holding the rights on the computer sources in question.
+
+
+5. WARRANTY RETENTION
+
+Ankama Games guarantees that its DOFUS installation program will principally act as described in the documentation available on the DOFUS website (http://dofus.com) as far as the Program has been downloaded on the website http://dofus.com and this for 30 days after download. In case of a definitive interruption of the DOFUS service, this warranty will expire immediately. The Warranty retention works by right unless an applicable law contradicts its application. In the assumption that an applicable contrary law exists, the warranty duration is fixed to the minimum legal duration.
+
+
+6. NO LIABILITY
+
+Respecting the applicable laws, Ankama Games and its partners shall not be liable in any way for any damage caused by the DOFUS installation program. 
+
+
+7. USER APPEAL
+
+Respecting the present conditions, recourses against DOFUS installation program can be made to Ankama Games, 75 boulevard d’Armentières, 59100 Roubaix, France. The company will judge the relevance of the recourse and shall refuse to follow it up. In any case, rights of recourse against DOFUS installation program have to be distinguished from rights or recourse against DOFUS program that have to be exercised according to its very own conditions available on the website: http://www.dofus.com. 
+
+
+8. REVISION OF THE PRESENT CONDITIONS
+
+The present conditions can not be revised without the agreement of both parties. However, Ankama Games is allowed to make corrections or precisions insofar as they do not alter the range of the present conditions.
+
+
+9. CEDE REFUSAL
+
+Present conditions apply to the parties, Ankama Games and the users, on the day of the acceptation. A user can not cede the granted rights to a third person.
+
+
+10. LAW APPLICABLE
+
+Ankama is a company under French law, recorded in the Roubaix-Tourcoing Trade Register under the number B 492 360 730, located at 75 boulevard d'Armentières, 59100 Roubaix, France.
+
