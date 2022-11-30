@@ -1,0 +1,83 @@
+﻿Licence d'utilisation du programme d'installation de DOFUS
+=============================================================
+12/02/2007	
+
+CE LOGICIEL ET TOUS LES FICHIERS QUI L'ACCOMPAGNENT SONT DISTRIBUÉS EN « L'ÉTAT ».
+
+Les présentes conditions d'utilisation sont le contrat qui vous (l'Utilisateur, le Joueur) autorise en tant qu'utilisateur à installer le programme DOFUS (Le Service, le Jeu), propriété d'Ankama Games ( la Société, le Propriétaire) à l'aide du programme d'installation de DOFUS (le Logiciel, le Programme). Elles viennent complétées les conditions d'utilisation de DOFUS, disponibles sur le site : http://www.dofus.com, qui doivent elles aussi être acceptées de manière pleine et entière avant de pouvoir utiliser le programme DOFUS et de vous connecter aux serveurs DOFUS.
+
+Le fait de copier, installer et utiliser les fichiers du programme d'installation de DOFUS vaut acceptation des présentes conditions. En cas de non-acceptation, vous êtes tenu de détruire sans délai la totalité de ces fichiers.
+
+Le Logiciel est protégé par les lois et traités internationaux sur le droit d'auteur et la propriété intellectuelle. La Société Ankama accorde une licence d'utilisation de son Programme sans que celle-ci n'en transfère la propriété. Sauf mentions contraires expresses, l'ensemble des droits qui y affèrent est et reste la propriété exclusive d'Ankama Games.
+
+L'Utilisateur doit être, pour accepter les présentes conditions, une personne ayant atteint l'âge de 18 ans en France ou l'âge de la majorité dans son pays d'origine. En outre, elle doit disposer d'une pleine capacité juridique. À défaut, son représentant légal peut se substituer à elle. Ce représentant est alors désigné comme l'Utilisateur et est donc responsable de l'utilisation qui est faite du Programme.
+
+
+1. CONCESSION DE LICENCE :
+
+La présente licence vous autorise à :
+- Installer le Programme sur toute machine dont vous êtes le propriétaire ou pour laquelle vous disposez de droits tels qu'ils vous autorisent à installer des programmes informatiques
+- Utiliser le Programme dans le respect des présentes conditions et des conditions d'utilisation du programme DOFUS disponibles sur le site : http://www.dofus.com
+- Conserver les présents fichiers afin de sauvegarde
+
+La présente licence ne vous autorise pas à :
+- Revendre tout ou partie du Programme et des fichiers qui l'accompagne
+- Distribuer, même à titre gracieux, tout ou partie du Programme et des fichiers qui l'accompagne sans autorisation expresse du Propriétaire.
+
+Ankama Games se réserve le droit de mettre unilatéralement terme à un contrat de licence en cas de non-respect de l'une ou l'autre des conditions énoncées dans le présent texte.
+
+
+2. DESCRIPTION DES AUTRES LIMITATIONS :
+
+Décompilation – Vous n'êtes pas autorisé à décompiler, désassembler tout ou partie du Programme ou à procéder à des techniques d'ingénierie sur celui-ci.
+
+Solidarité des composants – Le programme d'installation de DOFUS est un tout, indissociable de ses composants qui restent tous liés aux présentes conditions.
+
+Restriction de développement – Vous n'êtes pas autorisé à utiliser le présent Programme pour le développement d'un programme informatique. Ankama Games peut seule décider de limiter cette condition. Dans tous les cas, sauf autorisation expresse, la présente condition s'applique à toute personne morale ou physique.
+
+
+3. FONCTIONNEMENT DES MISES A JOUR
+
+Le présent Programme peut inclure un système permettant de mettre à jour les données du Programme installé sur votre ordinateur. Ce système peut être considéré comme un logiciel-espion ou spyware par certains logiciels. Ankama Games n'est pas responsable du non-fonctionnement ce système du fait de la présence de tel logiciel sur votre ordinateur.
+
+De plus, ce système requiert une connexion Internet. Ankama Games n'est pas responsable des dommages qui pourraient être causés par l'utilisation d'une connexion Internet ou de l'installation sur votre ordinateur de logiciels malveillants
+
+
+4. RÉSERVE DE PROPRIÉTÉ
+
+Pour la création du programme d'installation de DOFUS et du programme DOFUS, la Société Ankama a été amenée à utiliser des sources informatiques dont elle n'est pas propriétaire. Notamment et sans exclusive, l'utilisation du Flash Run-Time, propriété de Macromedia, Inc.
+
+L'utilisation du programme d'installation de DOFUS et du programme DOFUS ne vous autorise pas à poursuivre les sociétés détentrices de droits sur les sources informatiques concernées.
+
+
+5. RÉSERVE DE GARANTIE
+
+Ankama Games garantie que le programme d'installation de DOFUS se comportera principalement comme indiquée dans la documentation disponible sur le site DOFUS (http://www.dofus.com) dans la mesure où la réception du Programme aura été effectuée sur le site http://www.dofus.com et ceci pour une durée de 30 jours après la réception. Dans l'hypothèse d'une interruption définitive du service DOFUS, cette garantie expiera immédiatement. La réserve de garantie s'opère de plein droit, sauf si une loi applicable contredit son application. Dans l'hypothèse d'une loi contraire applicable, la durée de garantie est fixée à la durée minimum légale.
+
+
+6. ABSENCE DE RESPONSABILITÉ
+
+Dans le respect des lois applicables, Ankama Games et ses partenaires ne pourront être tenus pour responsable de tout dommage survenu suite à l'utilisation du programme d'installation de DOFUS.
+
+
+7. RECOURS UTILISATEUR
+
+Dans le respect des présentes conditions, les recours contre le programme d'installation de DOFUS peuvent s'exercer auprès d'Ankama Games, 31 rue de la Fonderie, 59203 Tourcoing, France. La Société appréciera l'opportunité de ces recours et pourra refuser d'y donner suite. Dans tous les cas, les droits de recours contre le programme d'installation de DOFUS doivent être distingués des droits de recours contre le programme DOFUS qui doivent être exercés dans le respect des conditions qui le régissent et qui sont disponibles sur le site : http://www.DOFUS.com.
+
+
+8. REVISION DES PRÉSENTES CONDITIONS
+
+Les présentes conditions ne peuvent être révisées sauf accord entre les parties. Toutefois, Ankama Games est autorisée à procéder à des corrections et précisions dans la mesure où celles-ci ne dénaturent pas la portée des présentes conditions.
+
+
+9. REFUS DE CESSION
+
+Les présentes conditions s'appliquent entre les parties, Ankama Games et les utilisateurs, à date de l'acception de celles-ci. Un utilisateur ne peut céder les droits accordés par celles-ci à un tiers.
+
+
+10. AUTORITE JUDICIAIRE COMPETENTE
+
+Ankama est une société de droit français, RCS Roubaix-Tourcoing B 492 360 730 et dont le siège social est basé au 75 boulevard d'Armentières, 59100 Roubaix, France.
+
+Copyright © 2001-2007 Ankama. Tous droits réservés. Ankama, Ankama Games et DOFUS sont des marques d'Annkama.
+
